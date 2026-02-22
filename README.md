@@ -1,4 +1,5 @@
-### ⚡ My Daily Loop
+14y Old Dev | Web, Python, C# & Java Enthusiast | AI & Tech |  🇧🇷
+### 
 
 ```python
 while alive:
@@ -11,7 +12,6 @@ while alive:
         'repeat': True
     }
 ```
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
