@@ -62,9 +62,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Guifp177&count_private=true&theme=react&border_radius=10" alt="streak stats""")/>>
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guifp177&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guifp177&show_icons=true&theme=radical&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guifp177&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guifp177&layout=compact&theme=vue&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
