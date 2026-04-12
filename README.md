@@ -1,7 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guifp177.Guifp177" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Guilherme+Faria!;" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Guilherme%20Faria&fontSize=42&fontColor=0D1117&animation=fadeIn&fontAlignY=55"
+</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Welcome!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
