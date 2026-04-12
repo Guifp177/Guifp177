@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guifp177.Guifp177" />
 
 <h1 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Guilherme%20Faria&fontSize=42&fontColor=0D1117&animation=fadeIn&fontAlignY=55"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&section=header&text=Guilherme%20Faria&fontSize=42&fontColor=0D1117&animation=fadeIn&fontAlignY=35"
 </h1>
 
 <h1 align="center">
