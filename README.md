@@ -8,13 +8,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Welcome!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+<h3 align="center">A software developer from Brazil 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **A website that analyzes various others and finds the cheapest building materials, delivering them to your home quickly and without any hassle.**
+ 🔭 I’m currently working on **A website that analyzes various others and finds the cheapest building materials in there , delivering them to your home quickly and without any hassle.**
  
  🌱 I’m currently learning **Docker, Supabase, C#, AI, Go, Python, Java, React with Gsap and 3d Animations**
 
